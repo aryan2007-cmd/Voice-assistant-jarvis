@@ -2,7 +2,7 @@ import subprocess
 import wolframalpha
 import pyttsx3
 import tkinter
-import json
+import json                                          #Install all the modules before running
 import random
 import operator
 import speech_recognition as sr
