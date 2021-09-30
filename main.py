@@ -20,7 +20,7 @@ import requests
 import shutil
 from twilio.rest import Client
 from clint.textui import progress
-# from ecapture import ecapture as ec
+# from ecapture import ecapture as ece
 from bs4 import BeautifulSoup
 import win32com.client as wincl
 from urllib.request import urlopen
